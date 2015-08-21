@@ -1,6 +1,6 @@
 """
     Amazingly, the set {n},
-        for n element of the Naturals s.t. sum(Natuals<n)%0 = 0
+        for n element of the Naturals s.t. sum(Natuals<n)%n = 0
     is equal to the set of odd numbers.
 
     Further inquiry required.
